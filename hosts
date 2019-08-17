@@ -1,7 +1,6 @@
 ## OptionalHosts project
 ## https://github.com/TsukihiAraragi/OptionalHosts
 ## License by CC-BY-SA-4.0
-## Last updated: 2019-08-11
 
 
 ## Localhost Start
@@ -25,7 +24,8 @@
 
 ## Network End
 
-## Google CN BGP IP Start(Change them if not working)
+
+## Google CN BGP IP Start
 
 # Some Alternative IPs: 
 # 203.208.39.207; 203.208.43.79; 203.208.39.223; 203.208.39.216; 203.208.43.88; 203.208.43.95; 203.208.39.215; 203.208.43.87; 
@@ -35,6 +35,7 @@
 203.208.39.207    google.cn
 203.208.39.207    translate.google.cn
 203.208.39.207    dl.google.com
+203.208.39.207    translate.googleapis.com
 
 # Android
 203.208.39.207    source.android.google.cn
@@ -42,20 +43,26 @@
 203.208.39.207    developers.android.google.cn
 
 # Others
+203.208.39.207    googleapis.cn
 203.208.39.207    www.gstatic.cn
 203.208.39.207    gstatic.cn
 203.208.39.207    googlecnapps.cn
-203.208.39.207    googleapis.cn
 203.208.39.207    ggpht.cn
 
 ## Google CN BGP IP End
 
+
 ## Torrent Start
 
-# share.dmhy.org
+# dmhy.org
+104.25.26.31    dmhy.org
+104.25.26.31    bbs.dmhy.org
 104.25.26.31    share.dmhy.org
-#104.25.27.31    share.dmhy.org
+104.25.26.31    u2.dmhy.org
+#104.25.27.31
 
 # torrentz.eu
 104.31.76.171    torrentz.eu
-#104.31.77.171    torrentz.eu
+#104.31.77.171
+
+## Torrent End

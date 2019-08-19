@@ -36,6 +36,8 @@
 203.208.39.207    translate.google.cn
 203.208.39.207    dl.google.com
 203.208.39.207    translate.googleapis.com
+203.208.39.207    ditu.google.cn
+203.208.39.207    maps.google.cn
 
 # Android
 203.208.39.207    source.android.google.cn
@@ -46,6 +48,7 @@
 203.208.39.207    googleapis.cn
 203.208.39.207    www.gstatic.cn
 203.208.39.207    gstatic.cn
+203.208.39.207    maps.gstatic.cn
 203.208.39.207    googlecnapps.cn
 203.208.39.207    ggpht.cn
 

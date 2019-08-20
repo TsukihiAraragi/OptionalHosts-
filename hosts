@@ -33,8 +33,8 @@
 # Main
 203.208.39.207    www.google.cn
 203.208.39.207    google.cn
-203.208.39.207    translate.google.cn
 203.208.39.207    dl.google.com
+203.208.39.207    translate.google.cn
 203.208.39.207    translate.googleapis.com
 203.208.39.207    ditu.google.cn
 203.208.39.207    maps.google.cn
@@ -64,6 +64,7 @@
 104.25.26.31    share.dmhy.org
 104.25.26.31    tracker.dmhy.org
 104.25.26.31    u2.dmhy.org
+104.25.26.31    www.dmhy.org
 #104.25.27.31
 
 ## Torrent End

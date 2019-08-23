@@ -34,11 +34,16 @@
 203.208.39.207    www.google.cn
 203.208.39.207    google.cn
 203.208.39.207    dl.google.com
+203.208.39.207    recaptcha.google.cn
+
+# Translate
 203.208.39.207    translate.google.cn
 203.208.39.207    translate.googleapis.com
+
+# Maps
 203.208.39.207    ditu.google.cn
+203.208.39.207    map.google.cn
 203.208.39.207    maps.google.cn
-203.208.39.207    recaptcha.google.cn
 
 # Android
 203.208.39.207    source.android.google.cn

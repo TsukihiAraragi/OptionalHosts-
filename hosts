@@ -39,6 +39,7 @@
 203.208.39.207    google.cn
 203.208.39.207    dl.google.com
 203.208.39.207    recaptcha.google.cn
+203.208.39.207    policies.google.cn
 
 # Translate
 203.208.39.207    translate.google.cn
@@ -49,10 +50,14 @@
 203.208.39.207    map.google.cn
 203.208.39.207    maps.google.cn
 
-# Android
+# Developers
 203.208.39.207    source.android.google.cn
 203.208.39.207    developer.android.google.cn
 203.208.39.207    developers.android.google.cn
+203.208.39.207    developer.google.cn
+203.208.39.207    developers.google.cn
+203.208.39.207    firebase.google.cn
+203.208.39.207    tensorflow.google.cn
 
 # Others
 203.208.39.207    googleapis.cn
@@ -61,6 +66,8 @@
 203.208.39.207    maps.gstatic.cn
 203.208.39.207    googlecnapps.cn
 203.208.39.207    ggpht.cn
+203.208.39.207    gkecnapps.cn
+203.208.39.207    wear.gkecnapps.cn
 
 ## Google CN BGP IP End
 

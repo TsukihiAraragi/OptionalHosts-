@@ -43,23 +43,25 @@
 # Some Alternative IPs: 
 # 203.208.39.207; 203.208.43.79; 203.208.39.223; 203.208.39.216; 203.208.43.88; 203.208.43.95; 203.208.39.215; 203.208.43.87; 
 
-# Main
+# main
 203.208.39.207    www.google.cn
 203.208.39.207    google.cn
 203.208.39.207    dl.google.com
-203.208.39.207    recaptcha.google.cn
 203.208.39.207    policies.google.cn
+203.208.39.207    googleapis.cn
+203.208.39.207    recaptcha.net
+203.208.39.207    www.recaptcha.net
 
-# Translate
+# translate
 203.208.39.207    translate.google.cn
 203.208.39.207    translate.googleapis.com
 
-# Maps
+# maps
 203.208.39.207    ditu.google.cn
 203.208.39.207    map.google.cn
 203.208.39.207    maps.google.cn
 
-# Developers
+# developers
 203.208.39.207    source.android.google.cn
 203.208.39.207    developer.android.google.cn
 203.208.39.207    developers.android.google.cn
@@ -68,15 +70,17 @@
 203.208.39.207    firebase.google.cn
 203.208.39.207    tensorflow.google.cn
 
-# Others
-203.208.39.207    googleapis.cn
+# gstatic
 203.208.39.207    www.gstatic.cn
 203.208.39.207    gstatic.cn
 203.208.39.207    maps.gstatic.cn
+
+# others
 203.208.39.207    googlecnapps.cn
 203.208.39.207    ggpht.cn
 203.208.39.207    gkecnapps.cn
 203.208.39.207    wear.gkecnapps.cn
+203.208.39.207    recaptcha.google.cn
 
 ## Google CN IP End
 
@@ -92,6 +96,16 @@
 104.25.26.31    u2.dmhy.org
 104.25.26.31    www.dmhy.org
 #104.25.27.31
+
+# acgnx.se
+104.26.0.5    acgnx.se
+104.26.0.5    share.acgnx.se
+104.26.0.5    www.acgnx.se
+104.26.0.5    ero.acgnx.se
+#104.26.1.5
+#may cause privacy leak 104.26.0.5    analytics.acgnx.se
+#may cause privacy leak 104.26.0.5    comm.acgnx.se
+
 
 # btsow.com
 45.79.103.224    btio.pw

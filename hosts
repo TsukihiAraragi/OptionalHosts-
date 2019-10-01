@@ -14,7 +14,7 @@
 
 ## Network Start
 
-# Bitvise Limited (US)
+# Bitvise Limited
 18.188.178.2    bitvise.com
 18.188.178.2    www.bitvise.com
 13.225.166.117    dl.bitvise.com
@@ -38,7 +38,7 @@
 # Search Engine End
 
 
-## Google CN BGP IP Start
+## Google CN IP Start
 
 # Some Alternative IPs: 
 # 203.208.39.207; 203.208.43.79; 203.208.39.223; 203.208.39.216; 203.208.43.88; 203.208.43.95; 203.208.39.215; 203.208.43.87; 
@@ -78,7 +78,7 @@
 203.208.39.207    gkecnapps.cn
 203.208.39.207    wear.gkecnapps.cn
 
-## Google CN BGP IP End
+## Google CN IP End
 
 
 ## Torrent Start
@@ -92,6 +92,17 @@
 104.25.26.31    u2.dmhy.org
 104.25.26.31    www.dmhy.org
 #104.25.27.31
+
+# btsow.com
+45.79.103.224    btio.pw
+45.79.103.224    btos.pw
+45.79.103.224    btso.pw
+45.79.103.224    btsow.com
+45.79.103.224    btsow.pw
+45.79.103.224    btspread.com
+45.79.103.224    tellme.pw
+#45.79.103.229
+#45.79.77.189
 
 ## Torrent End
 

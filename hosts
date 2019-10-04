@@ -52,6 +52,7 @@
 203.208.39.207    recaptcha.net
 203.208.39.207    www.recaptcha.net
 203.208.39.207    tools.google.com
+203.208.39.207    g.cn
 
 # translate
 203.208.39.207    translate.google.cn
@@ -79,13 +80,6 @@
 203.208.39.207    ssl.gstatic.com
 203.208.39.207    fonts.gstatic.cn
 203.208.39.207    fonts.gstatic.com
-
-# others
-203.208.39.207    googlecnapps.cn
-203.208.39.207    ggpht.cn
-203.208.39.207    gkecnapps.cn
-203.208.39.207    wear.gkecnapps.cn
-203.208.39.207    recaptcha.google.cn
 
 ## Google CN IP End
 

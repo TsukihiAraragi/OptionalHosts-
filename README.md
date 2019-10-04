@@ -1,5 +1,5 @@
 # OptionalHosts
-    This is a optional enhanced hosts file for doh someone. 
+    Make some hosts aceess correctly and fastly for someone. 
     It is a supplement to the entries not included in some project, but it has no other relationship with it.
     You are responsible for using this project.
 # Caution

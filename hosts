@@ -73,8 +73,12 @@
 
 # gstatic
 203.208.39.207    www.gstatic.cn
-203.208.39.207    gstatic.cn
+203.208.39.207    www.gstatic.com
 203.208.39.207    maps.gstatic.cn
+203.208.39.207    ssl.gstatic.cn
+203.208.39.207    ssl.gstatic.com
+203.208.39.207    fonts.gstatic.cn
+203.208.39.207    fonts.gstatic.com
 
 # others
 203.208.39.207    googlecnapps.cn

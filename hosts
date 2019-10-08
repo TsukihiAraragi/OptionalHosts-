@@ -44,15 +44,16 @@
 # 203.208.39.207; 203.208.43.79; 203.208.39.223; 203.208.39.216; 203.208.43.88; 203.208.43.95; 203.208.39.215; 203.208.43.87; 
 
 # main
+203.208.39.207    g.cn
 203.208.39.207    www.google.cn
 203.208.39.207    google.cn
 203.208.39.207    dl.google.com
 203.208.39.207    policies.google.cn
-203.208.39.207    googleapis.cn
 203.208.39.207    recaptcha.net
 203.208.39.207    www.recaptcha.net
+
 203.208.39.207    tools.google.com
-203.208.39.207    g.cn
+203.208.39.207    safebrowsing.googleapis.com
 
 # translate
 203.208.39.207    translate.google.cn

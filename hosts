@@ -40,46 +40,47 @@
 
 ## Google CN IP Start
 
-# Some Alternative IPs: 
-# 203.208.39.207; 203.208.43.79; 203.208.39.223; 203.208.39.216; 203.208.43.88; 203.208.43.95; 203.208.39.215; 203.208.43.87; 
+# Some Alternative IPs(Shanghai): 
+# 203.208.41.38; 203.208.41.39; 203.208.41.37; 203.208.41.33; 203.208.41.35; 203.208.41.34; 203.208.41.41; 203.208.41.32; 203.208.41.36; 203.208.41.40; 203.208.41.46;
 
 # main
-203.208.39.207    www.google.cn
-203.208.39.207    google.cn
-203.208.39.207    dl.google.com
-203.208.39.207    policies.google.cn
-203.208.39.207    recaptcha.net
-203.208.39.207    www.recaptcha.net
+203.208.41.38    www.google.cn
+203.208.41.38    google.cn
+203.208.41.38    dl.google.com
+203.208.41.38    policies.google.cn
 
-203.208.39.207    tools.google.com
-203.208.39.207    safebrowsing.googleapis.com
+203.208.41.38    recaptcha.net
+203.208.41.38    www.recaptcha.net
+203.208.41.38    fonts.googleapis.com
+203.208.41.38    tools.google.com
+203.208.41.38    safebrowsing.googleapis.com
 
 # translate
-203.208.39.207    translate.google.cn
-203.208.39.207    translate.googleapis.com
+203.208.41.38    translate.google.cn
+203.208.41.38    translate.googleapis.com
 
 # maps
-203.208.39.207    ditu.google.cn
-203.208.39.207    map.google.cn
-203.208.39.207    maps.google.cn
+203.208.41.38    ditu.google.cn
+203.208.41.38    map.google.cn
+203.208.41.38    maps.google.cn
 
 # developers
-203.208.39.207    source.android.google.cn
-203.208.39.207    developer.android.google.cn
-203.208.39.207    developers.android.google.cn
-203.208.39.207    developer.google.cn
-203.208.39.207    developers.google.cn
-203.208.39.207    firebase.google.cn
-203.208.39.207    tensorflow.google.cn
+203.208.41.38    source.android.google.cn
+203.208.41.38    developer.android.google.cn
+203.208.41.38    developers.android.google.cn
+203.208.41.38    developer.google.cn
+203.208.41.38    developers.google.cn
+203.208.41.38    firebase.google.cn
+203.208.41.38    tensorflow.google.cn
 
 # gstatic
-203.208.39.207    www.gstatic.cn
-203.208.39.207    www.gstatic.com
-203.208.39.207    maps.gstatic.cn
-203.208.39.207    ssl.gstatic.cn
-203.208.39.207    ssl.gstatic.com
-203.208.39.207    fonts.gstatic.cn
-203.208.39.207    fonts.gstatic.com
+203.208.41.38    www.gstatic.cn
+203.208.41.38    www.gstatic.com
+203.208.41.38    maps.gstatic.cn
+203.208.41.38    ssl.gstatic.cn
+203.208.41.38    ssl.gstatic.com
+203.208.41.38    fonts.gstatic.cn
+203.208.41.38    fonts.gstatic.com
 
 ## Google CN IP End
 

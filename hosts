@@ -54,6 +54,8 @@
 203.208.41.38    fonts.googleapis.com
 203.208.41.38    tools.google.com
 203.208.41.38    safebrowsing.googleapis.com
+203.208.41.38    clientservices.googleapis.com
+203.208.41.38    update.googleapis.com
 
 # translate
 203.208.41.38    translate.google.cn

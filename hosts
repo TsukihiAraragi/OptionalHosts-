@@ -89,6 +89,11 @@
 
 ## Torrent Start
 
+# torrentz2
+104.31.19.30    torrentz2.eu
+104.31.19.30    torrentz2.is
+#104.31.18.30
+
 # dmhy.org
 104.25.26.31    dmhy.org
 104.25.26.31    bbs.dmhy.org
@@ -107,7 +112,6 @@
 #104.26.1.5
 #may cause privacy leak 104.26.0.5    analytics.acgnx.se
 #may cause privacy leak 104.26.0.5    comm.acgnx.se
-
 
 # btsow.com
 45.79.103.224    btio.pw

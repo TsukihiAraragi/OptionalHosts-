@@ -116,9 +116,9 @@
 104.26.0.5    share.acgnx.se
 104.26.0.5    www.acgnx.se
 104.26.0.5    ero.acgnx.se
+104.26.0.5    comm.acgnx.se
 #104.26.1.5
-#may cause privacy leak 104.26.0.5    analytics.acgnx.se
-#may cause privacy leak 104.26.0.5    comm.acgnx.se
+#tracking domains 104.26.0.5    analytics.acgnx.se
 
 # btsow.com
 45.79.103.224    btio.pw

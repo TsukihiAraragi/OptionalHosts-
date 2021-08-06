@@ -1,3 +1,3 @@
-# OptionalHosts
+# rwhosts
    
-Make some hosts aceess correctly or fastly somewhere. 
+Reworked.

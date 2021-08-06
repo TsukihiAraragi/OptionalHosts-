@@ -1,0 +1,189 @@
+## dhosts
+## https://github.com/TsukihiAraragi/rwhosts/master/dhosts/hosts
+## License by CC-BY-SA-4.0
+
+
+# Localhost Start
+127.0.0.1    localhost
+::1    ip6-localhost
+::1    ip6-loopback
+# Localhost End
+
+# Apkpure Start
+104.20.82.194	apkpure.com
+104.20.82.194	a.apkpure.com
+104.20.82.194	i.apkpure.com
+104.20.82.194	m.apkpure.com
+104.20.82.194	www.apkpure.com
+104.20.82.194	static.apkpure.com
+104.20.82.194	developer.apkpure.com
+104.20.82.194	translate.apkpure.com
+104.20.82.194	download.apkpure.com
+#104.20.83.194
+#172.67.1.139
+# Apkpure End
+
+# Apkmirror Start
+104.19.133.58	www.apkmirror.com
+# Apkmirror End
+
+# Bitvise Limited Start
+18.188.178.2    bitvise.com
+18.188.178.2    www.bitvise.com
+13.35.15.60    dl.bitvise.com
+#13.35.15.26    dl.bitvise.com
+#13.35.15.53    dl.bitvise.com
+#13.35.15.42    dl.bitvise.com
+# Bitvise Limited End
+
+# whoer.net Start
+104.26.3.223    whoer.net
+#104.26.3.223
+#172.67.70.188
+# whoer.net End
+
+# Searx Start
+194.150.168.104 searx.me
+194.150.168.104 www.searx.me
+# Searx End
+
+# GitHub Start
+140.82.114.3    gist.github.com
+140.82.114.3    github.com
+140.82.114.3    www.github.com
+#140.82.114.4
+185.199.108.133	   avatars0.githubusercontent.com
+185.199.108.133    avatars1.githubusercontent.com
+185.199.108.133    avatars2.githubusercontent.com
+185.199.108.133    avatars3.githubusercontent.com
+185.199.108.133    avatars4.githubusercontent.com
+185.199.108.133    avatars5.githubusercontent.com
+185.199.108.133    avatars6.githubusercontent.com
+185.199.108.133    avatars7.githubusercontent.com
+185.199.108.133    avatars8.githubusercontent.com
+185.199.108.133    camo.githubusercontent.com
+185.199.108.133    cloud.githubusercontent.com
+185.199.108.133    gist.githubusercontent.com
+185.199.108.133    marketplace-screenshots.githubusercontent.com
+185.199.108.133    raw.githubusercontent.com
+185.199.108.133    repository-images.githubusercontent.com
+185.199.108.133    user-images.githubusercontent.com
+#185.199.109.133
+#185.199.110.133
+#185.199.111.133
+# GitHub End
+
+## Google CN IP Start
+# Some Alternative IPs: 
+# AS24424 203.208.40.0/24 (Shanghai)
+# 203.208.40.34 203.208.40.98 
+# AS24424 203.208.41.0/24 (Shanghai)
+# 203.208.41.34 203.208.41.66
+# AS24424 203.208.39.0/24 (Beijing)
+# 203.208.39.226
+# AS24424 203.208.50.0/24 (Beijing)
+# 203.208.50.34 203.208.50.66 203.208.50.162
+# AS24424 203.208.43.0/24 (Beijing)
+# 203.208.43.66 203.208.43.98
+# main
+203.208.41.38    www.google.cn
+203.208.41.38    google.cn
+203.208.41.38    dl.google.com
+203.208.41.38    policies.google.cn
+203.208.41.38    recaptcha.net
+203.208.41.38    www.recaptcha.net
+203.208.41.38    fonts.googleapis.com
+203.208.41.38    tools.google.com
+203.208.41.38    safebrowsing.googleapis.com
+203.208.41.38    clientservices.googleapis.com
+203.208.41.38    update.googleapis.com
+# translate
+203.208.41.38    translate.google.cn
+203.208.41.38    translate.googleapis.com
+# maps
+203.208.41.38    ditu.google.cn
+203.208.41.38    map.google.cn
+203.208.41.38    maps.google.cn
+# developers
+203.208.41.38    source.android.google.cn
+203.208.41.38    developer.android.google.cn
+203.208.41.38    developers.android.google.cn
+203.208.41.38    developer.google.cn
+203.208.41.38    developers.google.cn
+203.208.41.38    firebase.google.cn
+203.208.41.38    tensorflow.google.cn
+# gstatic
+203.208.41.38    www.gstatic.cn
+203.208.41.38    www.gstatic.com
+203.208.41.38    maps.gstatic.cn
+203.208.41.38    ssl.gstatic.cn
+203.208.41.38    ssl.gstatic.com
+203.208.41.38    fonts.gstatic.cn
+203.208.41.38    fonts.gstatic.com
+## Google CN IP End
+
+# torrentz2 Start
+104.21.90.45    torrentz2.is
+#172.67.194.242
+# torrentz2 End
+
+# dmhy.org Start
+104.25.61.106    dmhy.org
+104.25.61.106    bbs.dmhy.org
+104.25.61.106    dl.dmhy.org
+104.25.61.106    share.dmhy.org
+104.25.61.106    tracker.dmhy.org
+104.25.61.106    u2.dmhy.org
+104.25.61.106    www.dmhy.org
+#104.25.62.106
+#172.67.98.15
+# dmhy.org End
+
+# acgnx.se Start
+104.26.0.5    acgnx.se
+104.26.0.5    share.acgnx.se
+104.26.0.5    www.acgnx.se
+104.26.0.5    ero.acgnx.se
+104.26.0.5    comm.acgnx.se
+#104.26.1.5
+#172.67.72.57
+#tracking domains: analytics.acgnx.se
+# acgnx.se End
+
+# btsow Start
+104.21.95.92    avmoo.com
+104.21.95.92    www.avmoo.com
+#172.67.144.19    avmoo.com
+#172.67.144.19    www.avmoo.com
+104.21.13.66    avsox.com
+104.21.13.66    www.avsox.com
+#172.67.198.151    avsox.com
+#172.67.198.151    www.avsox.com
+3.223.115.185    avmemo.com
+3.223.115.185    www.avmemo.com
+185.112.156.147    btsow.com
+185.112.156.147    www.btsow.com
+185.112.156.147    avmoo.casa
+185.112.156.147    www.avmoo.casa
+185.112.156.147    avsox.website
+185.112.156.147    www.avsox.website
+185.112.156.147    avmemo.asia
+185.112.156.147    www.avmemo.asia
+185.112.156.147    btsow.one
+185.112.156.147    www.btsow.one
+185.112.156.147    tellme.pw
+
+# btsow.com End
+
+# onejav.com Start
+172.64.105.20    onejav.com
+#172.64.104.20
+# onejav.com End
+
+# nyaa Start
+185.178.208.182    nyaa.si
+# nyaa End
+
+# nyaa sukebei Start
+198.251.89.38    sukebei.nyaa.si
+# nyaa sukebei End

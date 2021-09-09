@@ -36,6 +36,16 @@
 #13.35.15.42    dl.bitvise.com
 # Bitvise Limited End
 
+# Cloudflare CDNJS Start
+104.16.18.94    cdnjs.cloudflare.com
+#104.16.19.94
+# Cloudflare CDNJS End
+
+# Cloudflare hCaptcha Start
+104.16.168.131	hcaptcha.com
+#104.16.169.131
+# Cloudflare hCaptcha End
+
 # whoer.net Start
 104.26.3.223    whoer.net
 #104.26.3.223

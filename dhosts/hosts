@@ -10,190 +10,212 @@
 # Localhost End
 
 # Apkpure Start
-104.20.82.194	apkpure.com
-104.20.82.194	a.apkpure.com
-104.20.82.194	i.apkpure.com
-104.20.82.194	m.apkpure.com
-104.20.82.194	www.apkpure.com
-104.20.82.194	static.apkpure.com
-104.20.82.194	developer.apkpure.com
-104.20.82.194	translate.apkpure.com
-104.20.82.194	download.apkpure.com
-#104.20.83.194
-#172.67.1.139
+2606:4700:10::ac43:87f	apkpure.com
+2606:4700:10::ac43:87f	a.apkpure.com
+2606:4700:10::ac43:87f	i.apkpure.com
+2606:4700:10::ac43:87f	m.apkpure.com
+2606:4700:10::ac43:87f	www.apkpure.com
+2606:4700:10::ac43:87f	static.apkpure.com
+2606:4700:10::ac43:87f	developer.apkpure.com
+2606:4700:10::ac43:87f	translate.apkpure.com
+2606:4700:10::ac43:87f	download.apkpure.com
+
+104.22.4.119	apkpure.com
+104.22.4.119	a.apkpure.com
+104.22.4.119	i.apkpure.com
+104.22.4.119	m.apkpure.com
+104.22.4.119	www.apkpure.com
+104.22.4.119	static.apkpure.com
+104.22.4.119	developer.apkpure.com
+104.22.4.119	translate.apkpure.com
+104.22.4.119	download.apkpure.com
 # Apkpure End
 
 # Apkmirror Start
-104.19.133.58	www.apkmirror.com
+2606:4700:1::6813:853a	www.apkmirror.com
+
+104.19.132.58	www.apkmirror.com
 # Apkmirror End
 
 # Bitvise Limited Start
+2600:9000:2135:a200:c:4737:7540:93a1    www.bitvise.com
+2600:9000:219a:3e00:4:c306:5240:93a1    dl.bitvise.com
+
 18.188.178.2    bitvise.com
 18.188.178.2    www.bitvise.com
-13.35.15.60    dl.bitvise.com
-#13.35.15.26    dl.bitvise.com
-#13.35.15.53    dl.bitvise.com
-#13.35.15.42    dl.bitvise.com
+13.225.103.89    dl.bitvise.com
 # Bitvise Limited End
 
 # Cloudflare CDNJS Start
-104.16.18.94    cdnjs.cloudflare.com
-#104.16.19.94
+2606:4700::6811:190e    cdnjs.cloudflare.com
+
+104.17.24.14    cdnjs.cloudflare.com
 # Cloudflare CDNJS End
 
-# Cloudflare hCaptcha Start
-104.16.168.131	hcaptcha.com
-#104.16.169.131
-# Cloudflare hCaptcha End
+# dmhy.org Start
+2606:4700:20::6819:3d6a    dmhy.org
+2606:4700:20::6819:3d6a    bbs.dmhy.org
+2606:4700:20::6819:3d6a    dl.dmhy.org
+2606:4700:20::6819:3d6a    share.dmhy.org
+2606:4700:20::6819:3d6a    tracker.dmhy.org
+2606:4700:20::6819:3d6a    u2.dmhy.org
+2606:4700:20::6819:3d6a    www.dmhy.org
 
-# whoer.net Start
-104.26.3.223    whoer.net
-#104.26.3.223
-#172.67.70.188
-# whoer.net End
-
-# Searx Start
-194.150.168.104 searx.me
-194.150.168.104 www.searx.me
-# Searx End
+172.67.98.15    dmhy.org
+172.67.98.15    bbs.dmhy.org
+172.67.98.15    dl.dmhy.org
+172.67.98.15    share.dmhy.org
+172.67.98.15    tracker.dmhy.org
+172.67.98.15    u2.dmhy.org
+172.67.98.15    www.dmhy.org
+# dmhy.org End
 
 # GitHub Start
-140.82.114.3    gist.github.com
-140.82.114.3    github.com
-140.82.114.3    www.github.com
-#140.82.114.4
-185.199.108.133	   avatars0.githubusercontent.com
-185.199.108.133    avatars1.githubusercontent.com
-185.199.108.133    avatars2.githubusercontent.com
-185.199.108.133    avatars3.githubusercontent.com
-185.199.108.133    avatars4.githubusercontent.com
-185.199.108.133    avatars5.githubusercontent.com
-185.199.108.133    avatars6.githubusercontent.com
-185.199.108.133    avatars7.githubusercontent.com
-185.199.108.133    avatars8.githubusercontent.com
-185.199.108.133    camo.githubusercontent.com
-185.199.108.133    cloud.githubusercontent.com
-185.199.108.133    gist.githubusercontent.com
-185.199.108.133    marketplace-screenshots.githubusercontent.com
-185.199.108.133    raw.githubusercontent.com
-185.199.108.133    repository-images.githubusercontent.com
-185.199.108.133    user-images.githubusercontent.com
-#185.199.109.133
-#185.199.110.133
-#185.199.111.133
+2606:50c0:8001::154    raw.githubusercontent.com
+2606:50c0:8001::154    user-images.githubusercontent.com
+
+140.82.113.4    gist.github.com
+140.82.113.4    github.com
+140.82.113.4    www.github.com
+185.199.111.133	   avatars0.githubusercontent.com
+185.199.111.133    avatars1.githubusercontent.com
+185.199.111.133    avatars2.githubusercontent.com
+185.199.111.133    avatars3.githubusercontent.com
+185.199.111.133    avatars4.githubusercontent.com
+185.199.111.133    avatars5.githubusercontent.com
+185.199.111.133    avatars6.githubusercontent.com
+185.199.111.133    avatars7.githubusercontent.com
+185.199.111.133    avatars8.githubusercontent.com
+185.199.111.133    camo.githubusercontent.com
+185.199.111.133    cloud.githubusercontent.com
+185.199.111.133    gist.githubusercontent.com
+185.199.111.133    marketplace-screenshots.githubusercontent.com
+185.199.111.133    raw.githubusercontent.com
+185.199.111.133    repository-images.githubusercontent.com
+185.199.111.133    user-images.githubusercontent.com
 # GitHub End
 
 ## Google CN IP Start
-# Some Alternative IPs: 
-# AS24424 203.208.40.0/24 (Shanghai)
-# 203.208.40.34 203.208.40.98 
-# AS24424 203.208.41.0/24 (Shanghai)
-# 203.208.41.34 203.208.41.66
-# AS24424 203.208.39.0/24 (Beijing)
-# 203.208.39.226
-# AS24424 203.208.50.0/24 (Beijing)
-# 203.208.50.34 203.208.50.66 203.208.50.162
-# AS24424 203.208.43.0/24 (Beijing)
-# 203.208.43.66 203.208.43.98
 # main
-203.208.41.38    www.google.cn
-203.208.41.38    google.cn
-203.208.41.38    dl.google.com
-203.208.41.38    policies.google.cn
-203.208.41.38    recaptcha.net
-203.208.41.38    www.recaptcha.net
-203.208.41.38    fonts.googleapis.com
-203.208.41.38    tools.google.com
-203.208.41.38    safebrowsing.googleapis.com
-203.208.41.38    clientservices.googleapis.com
-203.208.41.38    update.googleapis.com
+2401:3800:4001:15::1002    www.google.cn
+2401:3800:4001:15::1002    google.cn
+2401:3800:4001:15::1002    dl.google.com
+2401:3800:4001:15::1002    policies.google.cn
+2401:3800:4001:15::1002    recaptcha.net
+2401:3800:4001:15::1002    www.recaptcha.net
+2401:3800:4001:15::1002    fonts.googleapis.com
+2401:3800:4001:15::1002    tools.google.com
+2401:3800:4001:15::1002    safebrowsing.googleapis.com
+2401:3800:4001:15::1002    clientservices.googleapis.com
+2401:3800:4001:15::1002    update.googleapis.com
 # translate
-203.208.41.38    translate.google.cn
-203.208.41.38    translate.googleapis.com
+2401:3800:4001:15::1002    translate.google.cn
+2401:3800:4001:15::1002    translate.googleapis.com
 # maps
-203.208.41.38    ditu.google.cn
-203.208.41.38    map.google.cn
-203.208.41.38    maps.google.cn
+2401:3800:4001:15::1002    ditu.google.cn
+2401:3800:4001:15::1002    map.google.cn
+2401:3800:4001:15::1002    maps.google.cn
 # developers
-203.208.41.38    source.android.google.cn
-203.208.41.38    developer.android.google.cn
-203.208.41.38    developers.android.google.cn
-203.208.41.38    developer.google.cn
-203.208.41.38    developers.google.cn
-203.208.41.38    firebase.google.cn
-203.208.41.38    tensorflow.google.cn
+2401:3800:4001:15::1002    source.android.google.cn
+2401:3800:4001:15::1002    developer.android.google.cn
+2401:3800:4001:15::1002    developers.android.google.cn
+2401:3800:4001:15::1002    developer.google.cn
+2401:3800:4001:15::1002    developers.google.cn
+2401:3800:4001:15::1002    firebase.google.cn
+2401:3800:4001:15::1002    tensorflow.google.cn
 # gstatic
-203.208.41.38    www.gstatic.cn
-203.208.41.38    www.gstatic.com
-203.208.41.38    maps.gstatic.cn
-203.208.41.38    ssl.gstatic.cn
-203.208.41.38    ssl.gstatic.com
-203.208.41.38    fonts.gstatic.cn
-203.208.41.38    fonts.gstatic.com
+2401:3800:4001:15::1002    www.gstatic.cn
+2401:3800:4001:15::1002    www.gstatic.com
+2401:3800:4001:15::1002    maps.gstatic.cn
+2401:3800:4001:15::1002    ssl.gstatic.cn
+2401:3800:4001:15::1002    ssl.gstatic.com
+2401:3800:4001:15::1002    fonts.gstatic.cn
+2401:3800:4001:15::1002    fonts.gstatic.com
+
+# main
+203.208.41.66    www.google.cn
+203.208.41.66    google.cn
+203.208.41.66    dl.google.com
+203.208.41.66    policies.google.cn
+203.208.41.66    recaptcha.net
+203.208.41.66    www.recaptcha.net
+203.208.41.66    fonts.googleapis.com
+203.208.41.66    tools.google.com
+203.208.41.66    safebrowsing.googleapis.com
+203.208.41.66    clientservices.googleapis.com
+203.208.41.66    update.googleapis.com
+# translate
+203.208.41.66    translate.google.cn
+203.208.41.66    translate.googleapis.com
+# maps
+203.208.41.66    ditu.google.cn
+203.208.41.66    map.google.cn
+203.208.41.66    maps.google.cn
+# developers
+203.208.41.66    source.android.google.cn
+203.208.41.66    developer.android.google.cn
+203.208.41.66    developers.android.google.cn
+203.208.41.66    developer.google.cn
+203.208.41.66    developers.google.cn
+203.208.41.66    firebase.google.cn
+203.208.41.66    tensorflow.google.cn
+# gstatic
+203.208.41.66    www.gstatic.cn
+203.208.41.66    www.gstatic.com
+203.208.41.66    maps.gstatic.cn
+203.208.41.66    ssl.gstatic.cn
+203.208.41.66    ssl.gstatic.com
+203.208.41.66    fonts.gstatic.cn
+203.208.41.66    fonts.gstatic.com
 ## Google CN IP End
 
-# torrentz2 Start
-104.21.90.45    torrentz2.is
-#172.67.194.242
-# torrentz2 End
+# lncn.org Start
+2606:4700:3030::ac43:8e74	lncn.org
 
-# dmhy.org Start
-104.25.61.106    dmhy.org
-104.25.61.106    bbs.dmhy.org
-104.25.61.106    dl.dmhy.org
-104.25.61.106    share.dmhy.org
-104.25.61.106    tracker.dmhy.org
-104.25.61.106    u2.dmhy.org
-104.25.61.106    www.dmhy.org
-#104.25.62.106
-#172.67.98.15
-# dmhy.org End
+104.21.95.3	lncn.org
+# lncn.org End
 
-# acgnx.se Start
-104.26.0.5    acgnx.se
-104.26.0.5    share.acgnx.se
-104.26.0.5    www.acgnx.se
-104.26.0.5    ero.acgnx.se
-104.26.0.5    comm.acgnx.se
-#104.26.1.5
-#172.67.72.57
-#tracking domains: analytics.acgnx.se
-# acgnx.se End
+# onejav Start
+2606:4700:3031::ac43:9027	onejav.com
+2606:4700:3031::ac43:9027	file.onejav.com
 
-# btsow Start
-104.21.95.92    avmoo.com
-104.21.95.92    www.avmoo.com
-#172.67.144.19    avmoo.com
-#172.67.144.19    www.avmoo.com
-104.21.13.66    avsox.com
-104.21.13.66    www.avsox.com
-#172.67.198.151    avsox.com
-#172.67.198.151    www.avsox.com
-3.223.115.185    avmemo.com
-3.223.115.185    www.avmemo.com
-185.112.156.147    btsow.com
-185.112.156.147    www.btsow.com
-185.112.156.147    avmoo.casa
-185.112.156.147    www.avmoo.casa
-185.112.156.147    avsox.website
-185.112.156.147    www.avsox.website
-185.112.156.147    avmemo.asia
-185.112.156.147    www.avmemo.asia
-185.112.156.147    btsow.one
-185.112.156.147    www.btsow.one
-185.112.156.147    tellme.pw
+104.21.47.27	onejav.com
+104.21.47.27	file.onejav.com
+# onejav End
 
-# btsow.com End
+# rule34 Start
+2606:4700:20::681a:ea	rule34.xxx
+2606:4700:20::681a:ea	wimg.rule34.xxx
+2606:4700:20::681a:ea	ws-cdn-video.rule34.xxx
+2606:4700:20::681a:ea	api.rule34.xxx
+2606:4700:20::681a:ea	api-cdn.rule34.xxx
+2606:4700:20::681a:ea	api-cdn-mp4.rule34.xxx
 
-# onejav.com Start
-172.64.105.20    onejav.com
-#172.64.104.20
-# onejav.com End
+104.26.0.234	rule34.xxx
+104.26.0.234	wimg.rule34.xxx
+104.26.0.234	ws-cdn-video.rule34.xxx
+104.26.0.234	api.rule34.xxx
+104.26.0.234	api-cdn.rule34.xxx
+104.26.0.234	api-cdn-mp4.rule34.xxx
+# rule34 End
 
 # nyaa Start
 185.178.208.182    nyaa.si
 # nyaa End
 
-# nyaa sukebei Start
-198.251.89.38    sukebei.nyaa.si
-# nyaa sukebei End
+# Vivaldi Start
+2606:4700:10::6816:3ac7		vivaldi.com
+2606:4700:10::6816:3ac7	www.vivaldi.com
+2606:4700:10::6816:3ac7	help.vivaldi.com
+2a04:4e42::649	downloads.vivaldi.com
+
+172.67.21.227	vivaldi.com
+104.22.59.199	www.vivaldi.com
+104.22.59.199	help.vivaldi.com
+151.101.2.137	downloads.vivaldi.com
+31.209.137.5	update.vivaldi.com
+# Vivaldi End
+
+# whoer.net Start
+104.26.4.133    whoer.net
+# whoer.net End

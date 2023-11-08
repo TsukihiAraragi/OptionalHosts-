@@ -1,8 +1,3 @@
-## dhosts
-## https://github.com/TsukihiAraragi/rwhosts/master/dhosts/hosts
-## License by CC-BY-SA-4.0
-
-
 # Localhost Start
 127.0.0.1    localhost
 ::1    ip6-localhost
@@ -174,30 +169,6 @@
 
 104.21.95.3	lncn.org
 # lncn.org End
-
-# onejav Start
-2606:4700:3031::ac43:9027	onejav.com
-2606:4700:3031::ac43:9027	file.onejav.com
-
-104.21.47.27	onejav.com
-104.21.47.27	file.onejav.com
-# onejav End
-
-# rule34 Start
-2606:4700:20::681a:ea	rule34.xxx
-2606:4700:20::681a:ea	wimg.rule34.xxx
-2606:4700:20::681a:ea	ws-cdn-video.rule34.xxx
-2606:4700:20::681a:ea	api.rule34.xxx
-2606:4700:20::681a:ea	api-cdn.rule34.xxx
-2606:4700:20::681a:ea	api-cdn-mp4.rule34.xxx
-
-104.26.0.234	rule34.xxx
-104.26.0.234	wimg.rule34.xxx
-104.26.0.234	ws-cdn-video.rule34.xxx
-104.26.0.234	api.rule34.xxx
-104.26.0.234	api-cdn.rule34.xxx
-104.26.0.234	api-cdn-mp4.rule34.xxx
-# rule34 End
 
 # nyaa Start
 185.178.208.182    nyaa.si
